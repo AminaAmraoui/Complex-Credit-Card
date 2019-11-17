@@ -1,6 +1,6 @@
 applications:
   - path: .
-    name: Complex-Credit-Card
+    name: innovator-amina-app
     environment_json: {}
     memory: 256M
     instances: 2
