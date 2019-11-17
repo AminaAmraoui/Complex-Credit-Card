@@ -3,6 +3,6 @@ applications:
     name: Complex-Credit-Card
     environment_json: {}
     memory: 256M
-    instances: 1
+    instances: 2
     disk_quota: 1024M
-    services: []
+    domain: eu-gb.cf.appdomain.cloud
